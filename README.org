@@ -1,0 +1,10 @@
+* cl-bip39
+
+A Common Lisp implementation of BIP-0039
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/zodmaner/cl-bip39.git   |
+| commit  | 241de08  |
+| systems | cl-bip39 |
+|---------+-------------------------------------------|
+
